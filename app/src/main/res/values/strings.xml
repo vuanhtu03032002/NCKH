@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EspSmartConfig</string>
+
+    <string name="main_title">Trang chủ</string>
+
+    <string name="esptouch_message_permission">Ứng dụng yêu cầu quyền truy cập vị trí để lấy thông tin Wi-Fi. \nNhấn để yêu cầu quyền truy cập</string>
+    <string name="esptouch_message_location">Vui lòng bật GPS để lấy thông tin Wi-Fi.</string>
+    <string name="esptouch_message_wifi_connection">Vui lòng kết nối Wi-Fi trước.</string>
+    <string name="esptouch_message_wifi_frequency">Kết nối Wi-Fi hiện tại là 5G, đảm bảo thiết bị của bạn hỗ trợ.</string>
+
+    <string name="esptouch1_title">EspTouch</string>
+    <string name="esptouch1_about_version">Phiên bản EspTouch: %s</string>
+    <string name="esptouch1_ssid_title">SSID: </string>
+    <string name="esptouch1_bssid_title">BSSID: </string>
+    <string name="esptouch1_password_title">Mật khẩu: </string>
+    <string name="esptouch1_device_count_title">Số lượng thiết bị: </string>
+    <string name="esptouch1_package_broadcast">Broadcast</string>
+    <string name="esptouch1_package_multicast">Multicast</string>
+    <string name="esptouch1_confirm">Xác nhận</string>
+    <string name="esptouch1_location_permission_title">⚠️Cảnh báo</string>
+    <string name="esptouch1_location_permission_message">Trên Android M hoặc phiên bản cao hơn, ứng dụng không thể lấy thông tin kết nối Wi-Fi nếu bạn từ chối quyền truy cập vị trí.</string>
+    <string name="esptouch1_configuring_message">EspTouch đang cấu hình, vui lòng chờ một chút…</string>
+    <string name="esptouch1_configure_wifi_change_message">Wi-Fi đã bị ngắt kết nối hoặc thay đổi</string>
+    <string name="esptouch1_configure_result_failed">EspTouch không thành công</string>
+    <string name="esptouch1_configure_result_failed_port">Tạo tác vụ EspTouch không thành công, cổng EspTouch có thể đang được sử dụng bởi luồng khác</string>
+    <string name="esptouch1_configure_result_success">EspTouch hoàn tất</string>
+    <string name="esptouch1_configure_result_success_item">BSSID = %1$s, Địa chỉ IP = %2$s</string>
+</resources>
